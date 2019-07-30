@@ -1,0 +1,258 @@
+{
+  "banners": [
+    {
+      "id": 0,
+      "url": "/assets/image/5c3c1064b98e6.jpg"
+    },
+    {
+      "id": 1,
+      "url": "/assets/image/5c3c1512559a1.jpg"
+    }
+  ],
+  "products_category": [
+    {
+      "id": 0,
+      "title": "Quạt điện",
+      "image": "/assets/image/category-1.jpg",
+      "slug": "quat-dien"
+    },
+    {
+      "id": 1,
+      "title": "Nồi cơm điện cao tần IH",
+      "image": "/assets/image/category-2.jpg",
+      "slug": "noi-com-dien-cao-tan-ih"
+    },
+    {
+      "id": 2,
+      "title": "Máy giặt, sấy lồng nghiêng",
+      "image": "/assets/image/category-3.jpg",
+      "slug": "may-giat-say-long-nghieng"
+    },
+    {
+      "id": 3,
+      "title": "Máy rửa chén, bát",
+      "image": "/assets/image/category-4.jpg",
+      "slug": "may-rua-chen-bat"
+    },
+    {
+      "id": 4,
+      "title": "Máy lọc nước ION kiềm",
+      "image": "/assets/image/category-5.jpg",
+      "slug": "may-loc-nuoc-ion-kiem"
+    },
+    {
+      "id": 5,
+      "title": "Bếp điện từ",
+      "image": "/assets/image/category-6.jpg",
+      "slug": "bep-dien-tu"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "title": "Sản Phẩm 1",
+      "description": "Product 1 description",
+      "price": 2500000,
+      "image": "/assets/image/product.jpg",
+      "slug": "san-pham-1",
+      "id_cat": 0
+    },
+    {
+      "id": 1,
+      "title": "Sản Phẩm 2",
+      "description": "Product 2 description",
+      "price": 2700000,
+      "image": "/assets/image/product.jpg",
+      "slug": "san-pham-2",
+      "id_cat": 0
+    },
+    {
+      "id": 2,
+      "title": "Sản Phẩm 3",
+      "description": "Product 3 description",
+      "price": 2900000,
+      "image": "/assets/image/product.jpg",
+      "slug": "san-pham-3",
+      "id_cat": 2
+    },
+    {
+      "id": 3,
+      "title": "Sản Phẩm 4",
+      "description": "Product 4 description",
+      "price": 2100000,
+      "image": "/assets/image/product.jpg",
+      "slug": "san-pham-4",
+      "id_cat": 3
+    },
+    {
+      "id": 4,
+      "title": "Sản Phẩm 5",
+      "description": "Product 5 description",
+      "price": 2190000,
+      "image": "/assets/image/product.jpg",
+      "slug": "san-pham-5",
+      "id_cat": 4
+    },
+    {
+      "id": 5,
+      "title": "Sản Phẩm 6",
+      "description": "Product 6 description",
+      "price": 2170000,
+      "image": "/assets/image/product.jpg",
+      "slug": "san-pham-6",
+      "id_cat": 5
+    }
+  ],
+  "news": [
+    {
+      "id": 0,
+      "title": "News 1",
+      "description": "News 1 description",
+      "price": 2500000,
+      "image": "/assets/image/fashion-banner-1.jpg",
+      "slug": "tin-tuc-1",
+      "date": "12/01/2019"
+    },
+    {
+      "id": 1,
+      "title": "News 2",
+      "description": "News 2 description",
+      "price": 2700000,
+      "image": "/assets/image/fashion-banner-1.jpg",
+      "slug": "tin-tuc-2",
+      "date": "31/03/2019"
+    },
+    {
+      "id": 2,
+      "title": "News 3",
+      "description": "News 3 description",
+      "price": 2900000,
+      "image": "/assets/image/fashion-banner-1.jpg",
+      "slug": "tin-tuc-3",
+      "date": "23/04/2019"
+    },
+    {
+      "id": 3,
+      "title": "News 4",
+      "description": "News 4 description",
+      "price": 2100000,
+      "image": "/assets/image/fashion-banner-1.jpg",
+      "slug": "tin-tuc-4",
+      "date": "26/06/2019"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "fullname": "tyyy",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 2,
+      "fullname": "Phan Văn Ty",
+      "email": "typhanvn@gmail.com",
+      "phone": "0977109284",
+      "subject": "Sản Phẩm máy giặt",
+      "message": "Gọi cho tôi"
+    },
+    {
+      "id": 3,
+      "fullname": "ty Phan",
+      "email": "typhanvn05@gmail.com",
+      "phone": "0977109284",
+      "subject": "Sản Phẩm Tủ Lạnh",
+      "message": "Gọi cho tôi"
+    },
+    {
+      "id": 4,
+      "fullname": "Phan Văn Ty",
+      "email": "typhanvn@gmail.com",
+      "phone": "0977109284",
+      "subject": "Sản Phẩm Tủ Lạnh",
+      "message": "Hãy gọi cho tôi"
+    },
+    {
+      "id": 5,
+      "fullname": "tyggg",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 6,
+      "fullname": "tffff",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 7,
+      "fullname": "tyyyyy",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 8,
+      "fullname": "ttttt",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 9,
+      "fullname": "ty365",
+      "email": "typhan365@gmail.com",
+      "phone": "0977109113",
+      "subject": "Sản Phẩm máy giặt",
+      "message": "Call me"
+    },
+    {
+      "id": 10,
+      "fullname": "",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 11,
+      "fullname": "",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 12,
+      "fullname": "e",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 13,
+      "fullname": "y",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": 14,
+      "fullname": "r",
+      "email": "typhanvn@gmail.com",
+      "phone": "0977109284",
+      "subject": "Sản Phẩm máy giặt",
+      "message": "tui"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+.slider .owl-dots {
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+.slider .owl-dots .owl-dot.active span,
+.slider .owl-dots .owl-dot:hover span{
+  border-color: #eb3e32;
+  background-color: #eb3e32;
+}
+
+.slider .owl-dots .owl-dot span {
+  background-color: #fff;
+  border: 1px solid #cacaca;
+  width: 14px;
+  height: 14px;
+}

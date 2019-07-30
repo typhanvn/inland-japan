@@ -1,0 +1,19 @@
+.header-btm .dropdown >a {
+  position: relative;
+}
+.header-btm .dropdown >a:before {
+  content: "\f107";
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+.header-btm .sub-menu .all-menu li a{
+  padding: 0;
+}

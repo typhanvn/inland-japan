@@ -1,0 +1,17 @@
+.loadingPage{
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+.loadingPage img{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  z-index: 1;
+  max-width: 120px;
+}
